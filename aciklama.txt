@@ -1,0 +1,3 @@
+kutular hafif bi büyüme göstericek fare üstüne geldiğinde ve
+borderlar var ya kutuda renkli
+hover modunda iken soldan sağa doğru o burdurlar uzuyacak
